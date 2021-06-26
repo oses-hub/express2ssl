@@ -1,0 +1,21 @@
+{
+  "name": "express2ssl",
+  "version": "1.0.0",
+  "description": "Simple Package to redirect from http to https, with express server!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "express",
+    "ssl",
+    "header",
+    "header",
+    "redirect"
+  ],
+  "author": "oses",
+  "license": "ISC",
+  "homepage": "https://github.com/oses-hub/express2ssl"
+}
